@@ -1,6 +1,10 @@
 # MyMovieApp--TMDB-API--JavaScript
-Création d'une application web en Javascript utilisant l'API de The Movies database
+Création d'une application web en Javascript, utilisation de l'API de The Movies database
 
-Projet réaliser intégralement en Javascript et le DOM pour la partie HTML :v:
+Projet réaliser intégralement en vanilla et le DOM pour la partie HTML :v:
 
 by LuisMiLR 
+
+![Schema](MyMovyApp.png)
+
+![Schema](MyMovyApp3.png)
